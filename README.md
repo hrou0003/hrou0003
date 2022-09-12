@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and AWS**
 
-- 👨‍💻 All of my projects are available at [harrisonrouillard.dev](harrisonrouillard.dev)
+- 👨‍💻 All of my projects are available at [harrisonrouillard.dev](https://harrisonrouillard.dev)
 
 - 📫 How to reach me **harrisonrouillard@gmail.com**
 
